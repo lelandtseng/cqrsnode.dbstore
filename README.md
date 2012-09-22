@@ -1,4 +1,8 @@
 cqrsnode.dbstore
 ================
+dbstore for cqrsnode project.
 
-cqrs db store , for  CURD . 
+Perfected , please waiting ......
+
+
+
