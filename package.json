@@ -1,0 +1,27 @@
+{
+  "name": "cqrsnode.dbstore",
+  "version": "0.0.0",
+  "description": "db store for cqrsnode",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/brighthas/cqrsnode.dbstore.git"
+  },
+  "keywords": [
+    "cqrs",
+    "ddd",
+    "DDD",
+    "CQRS",
+    "EventStore",
+    "DB",
+    ""
+  ],
+  "author": "brighthas <brighthas@gmail.com>",
+  "license": "MIT"
+}
