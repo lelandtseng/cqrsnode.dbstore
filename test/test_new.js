@@ -1,6 +1,6 @@
 var assert = require('assert');
 var should = require('should');
-var DB = require('../lib/DB');
+var DB = require('..');
 
 
 describe('db', function(){
