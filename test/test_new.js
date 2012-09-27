@@ -4,7 +4,7 @@ var DB = require('..');
 
 
 describe('db', function(){
-var Driver  =  DB.driver.Mongoose;
+var Driver  =  DB.Mongoose;
 var driver = new Driver('User',['id','name','age'])
 var db = new DB('User',driver);
   describe('#new', function(){
