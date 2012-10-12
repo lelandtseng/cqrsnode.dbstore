@@ -1,6 +1,6 @@
 {
   "name": "cqrsnode.dbstore",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "db store for cqrsnode",
   "main": "index.js",
   "directories": {
