@@ -1,6 +1,6 @@
 {
   "name": "cqrsnode.dbstore",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "db store for cqrsnode",
   "main": "index.js",
   "directories": {
@@ -23,5 +23,6 @@
     ""
   ],
   "author": "brighthas <brighthas@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "readmeFilename": "README.md"
 }
